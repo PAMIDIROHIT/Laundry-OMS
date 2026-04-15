@@ -1,6 +1,4 @@
-# Laundry OMS
 
-[Live demo: https://your-demo-url.vercel.app]
 
 ## What it does
 The Laundry Order Management System (OMS) is a full-stack web application designed for laundry businesses to easily track, manage, and bill customer orders. It allows staff to create new orders with specific garments, automatically calculates pricing, tracks the item's status through various stages of completion (Received, Processing, Ready, Delivered), and provides a comprehensive dashboard with analytics to monitor business performance.
@@ -8,7 +6,7 @@ The Laundry Order Management System (OMS) is a full-stack web application design
 ## Tech stack
 - **Backend:** Node.js, Express, MongoDB (with Mongoose), express-validator
 - **Frontend:** React, Vite, Tailwind CSS, Recharts, React Router v6
-- **Deployment:** Render (Backend), Vercel (Frontend)
+
 
 ## Setup instructions
 
